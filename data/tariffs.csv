@@ -1,0 +1,5 @@
+tariff_id,tariff_name,monthly_fee,data_gb_limit,minutes_limit
+1,Эконом,2000,5,300
+2,Стандарт,4000,20,1000
+3,Комфорт,6500,50,2000
+4,Премиум,10000,150,5000
